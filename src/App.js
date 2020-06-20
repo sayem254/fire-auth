@@ -13,6 +13,7 @@ function App(){
     name:'',
     email:'',
     photo:''
+    
   })
 
   const provider = new firebase.auth.GoogleAuthProvider();
